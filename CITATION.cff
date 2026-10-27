@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use or refer to this project, please cite it as below."
+title: "Breast Cancer Diagnosis Using Machine Learning and Explainable AI"
+authors:
+  - family-names: Srivastava
+    given-names: Saloni
+type: software
